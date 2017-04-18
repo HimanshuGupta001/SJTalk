@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "548499506751",
+    "firebase_url": "https://sjtalk-9de71.firebaseio.com",
+    "project_id": "sjtalk-9de71",
+    "storage_bucket": "sjtalk-9de71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548499506751:android:73eee3d13b3a5713",
+        "android_client_info": {
+          "package_name": "project.sjtalk.com.sjtalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548499506751-msr3c326jh12mvsg58hk13tb1u4tda3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAItYpJsJ4kUqrqKcL_bkt6XhbIoBfyxN4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
